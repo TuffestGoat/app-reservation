@@ -30,7 +30,7 @@ Projet conçu en équipe avec :Handjy, Adam
 ## Le plan de développement
 
 - Technologies et hébergement : HTML, CSS + Javascript et une connexion avec le compte du cégep.
-- Équipe : tests, designer, programmeur,
-- Échéancier : sprint 1 = démarche, sprint 2 = 
+- Équipe : tests, designer, programmeur
+- Échéancier : sprint 1 = démarche, sprint 2 = processus , sprint 3 = échéance, sprint 4 = réservation
 - Budget : 5000 $
-- Mesures du succès : satisfaction de l'efficacité, la rapidité, 
+- Mesures du succès : satisfaction de l'efficacité, la rapidité, fonctionnalité
