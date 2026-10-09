@@ -14,14 +14,14 @@ Projet conçu en équipe avec :Handjy, Adam
 - Proposition de valeur : Notre application permet l'individu de réserver du matériel sans difficulté et plus de vitesse.
 - Fonctionnalités du MVP :
     - En tant qu'élève, je veux réserver le matériel en moins de 5 minutes afin de sauver du temps et avoir un rappel du temps a respecter avant d'obtenir le matériel.
+    - Mots clés: simple, peu d'étapes, neutre, 
 
 ## L'expérience
 
-![Schéma de navigation](navigation.png) 
-<img width="884" height="910" alt="image" src="https://github.com/user-attachments/assets/5616d5fb-d652-42a4-8fcb-88b6e1469378" />
+<img width="659" height="851" alt="image" src="https://github.com/user-attachments/assets/76103df8-c3ea-4178-8e66-aa16305e4b0d" />
 
-![Écran principal](ecran-principal.jpg)
-<img width="1833" height="1131" alt="image" src="https://github.com/user-attachments/assets/de25d993-cff6-432b-9312-dc2d86c31442" />
+
+<img width="1833" height="1131" alt="image" src="https://github.com/user-attachments/assets/58c50f88-d5c9-49c9-9b59-328fe32818ee" />
 
 
 - Direction artistique : couleurs #vert pâle, #vert foncé, #noir et #blanc et police ...
